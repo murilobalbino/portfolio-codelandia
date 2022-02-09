@@ -13,6 +13,7 @@ export const Btn = styled.button`
   align-items: center;
   justify-content: center;
   color: #FFF;
+  cursor: pointer;
   
   img {
     margin-right: 10px;

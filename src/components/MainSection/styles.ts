@@ -10,6 +10,10 @@ export const Container = styled.section`
       margin-right: 24px;
     }
   }
+  .looper-img {
+    position: absolute;
+    top: 0;
+  }
 `
 
 export const Content = styled.div`

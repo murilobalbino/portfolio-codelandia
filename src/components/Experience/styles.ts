@@ -83,5 +83,8 @@ export const Description = styled.div`
     font-weight: 300;
     size: 18px;
     color: var(--gray-light);
+
+    max-width: 636px;
+    max-height: 84px;
   }
 `

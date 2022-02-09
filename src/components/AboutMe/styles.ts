@@ -50,4 +50,6 @@ export const Photo = styled.div`
   width: 367px;
   height: 367px;
   background: var(--dark);
+  
+  border-left: 4px solid var(--blue);
 `
